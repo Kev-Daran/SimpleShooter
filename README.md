@@ -12,9 +12,9 @@ LMB: Shoot<br>
 Space: Jump<br>
 
 ### Gamepad:
-Left Stick: Movement
+Left Stick: Movement<br>
 Bottom face button: Jump<br>
-Right Trigger: Shoot
+Right Trigger: Shoot<br>
 
 ## Objective:
 Clear the hallway from all the enemy soldiers
