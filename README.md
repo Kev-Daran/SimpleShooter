@@ -4,16 +4,16 @@ Part of the Unreal course with cpp
 ## Controls 
 
 ### Keyboard and Mouse:
-W: Move forward
-A: Move Left
-S: Move Back
-D: Move Right
-LMB: Shoot
-Space: Jump
+W: Move forward<br>
+A: Move Left<br>
+S: Move Back<br>
+D: Move Right<br>
+LMB: Shoot<br>
+Space: Jump<br>
 
 ### Gamepad:
 Left Stick: Movement
-Bottom face button: Jump
+Bottom face button: Jump<br>
 Right Trigger: Shoot
 
 ## Objective:
