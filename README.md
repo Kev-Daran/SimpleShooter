@@ -13,6 +13,7 @@ Space: Jump<br>
 
 ### Gamepad:
 Left Stick: Movement<br>
+Right Stick: Camera Movement
 Bottom face button: Jump<br>
 Right Trigger: Shoot<br>
 
