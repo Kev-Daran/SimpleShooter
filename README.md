@@ -1,6 +1,3 @@
-# SimpleShooter
-Part of the Unreal course with cpp
-
 ## Controls 
 
 ### Keyboard and Mouse:
