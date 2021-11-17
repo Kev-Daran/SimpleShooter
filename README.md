@@ -15,7 +15,7 @@ Bottom Face Button: Jump<br>
 Right Trigger: Shoot<br>
 
 ## Objective:
-Clear the hallway from all the enemy soldiers
+Clear the area from all the enemy soldiers.
 
 ## Screenshots:
 ![Screenshot 2021-08-22 211018](https://user-images.githubusercontent.com/81677957/130361329-2c423f06-63f9-428c-92f3-603ed7db74d7.png)
